@@ -78,7 +78,6 @@ The app will open in your browser at `http://localhost:8501`
 
 ```
 ├── streamlit_app.py      # Main Streamlit application
-├── main.py              # Original command-line version
 ├── admin_logs.py        # Admin script for log analysis
 ├── requirements.txt     # Python dependencies
 ├── .env                 # Environment variables (create this)
