@@ -1,0 +1,207 @@
+2025-10-01 12:25:58,018 - __main__ - INFO - New interview session started - Session ID: 20251001_122557
+2025-10-01 12:28:00,081 - __main__ - INFO - ==================================================
+2025-10-01 12:28:00,081 - __main__ - INFO - INTERVIEW INFORMATION COLLECTED
+2025-10-01 12:28:00,081 - __main__ - INFO - Examiner Name: Akshta
+2025-10-01 12:28:00,081 - __main__ - INFO - Difficulty Level: Beginner
+2025-10-01 12:28:00,081 - __main__ - INFO - Interview Date: 2025-10-01
+2025-10-01 12:28:00,081 - __main__ - INFO - Examiner Profile: Technical Lead
+2025-10-01 12:28:00,081 - __main__ - INFO - Password Provided: Yes
+2025-10-01 12:28:00,081 - __main__ - INFO - ==================================================
+2025-10-01 12:28:08,789 - __main__ - INFO - API Call - Input: 51, Output: 39, Total: 90, Time: 8.65s
+2025-10-01 12:28:08,790 - __main__ - INFO - Question 1 generated: Explain the concept of context transition in DAX, provide a practical scenario where it occurs impli...
+2025-10-01 12:28:12,044 - __main__ - INFO - Question 1 skipped by user
+2025-10-01 12:28:51,130 - __main__ - INFO - Question 1 skipped by user
+2025-10-01 12:28:57,421 - __main__ - INFO - API Call - Input: 61, Output: 101, Total: 162, Time: 6.29s
+2025-10-01 12:28:57,421 - __main__ - INFO - Question 2 generated: Design a single LAMBDA function, named `NESTED_LOOKUP`, that takes three arguments: `lookup_value`, ...
+2025-10-01 12:29:00,624 - __main__ - INFO - Question 2 skipped by user
+2025-10-01 12:29:07,949 - __main__ - INFO - API Call - Input: 61, Output: 62, Total: 123, Time: 7.32s
+2025-10-01 12:29:07,949 - __main__ - INFO - Question 3 generated: In an Excel Power Pivot data model, given a `Sales` table (with `SaleDate` and `TotalSalesAmount`) a...
+2025-10-01 12:30:10,901 - __main__ - INFO - API Call - Input: 124, Output: 49, Total: 173, Time: 7.91s
+2025-10-01 12:30:10,902 - __main__ - INFO - Evaluation 1 completed - Score: 5, Time: 7.91s
+2025-10-01 12:30:17,403 - __main__ - INFO - API Call - Input: 99, Output: 69, Total: 168, Time: 6.50s
+2025-10-01 12:30:17,406 - __main__ - INFO - Question 4 generated: You have a dataset where monthly sales figures for various products are stored in separate columns, ...
+2025-10-01 12:30:46,475 - __main__ - INFO - API Call - Input: 94, Output: 28, Total: 122, Time: 3.27s
+2025-10-01 12:30:46,476 - __main__ - INFO - Evaluation 2 completed - Score: 0, Time: 3.27s
+2025-10-01 12:30:51,901 - __main__ - INFO - API Call - Input: 62, Output: 52, Total: 114, Time: 5.43s
+2025-10-01 12:30:51,902 - __main__ - INFO - Question 5 generated: You have a dataset where column A lists employee names and column B contains a comma-separated strin...
+2025-10-01 12:31:11,543 - __main__ - INFO - API Call - Input: 76, Output: 48, Total: 124, Time: 6.73s
+2025-10-01 12:31:11,544 - __main__ - INFO - Evaluation 3 completed - Score: 0, Time: 6.73s
+2025-10-01 12:31:11,545 - __main__ - INFO - Interview completed successfully
+2025-10-01 12:31:11,545 - __main__ - INFO - FINAL INTERVIEW SUMMARY:
+2025-10-01 12:31:11,545 - __main__ - INFO - Examiner: Akshta
+2025-10-01 12:31:11,545 - __main__ - INFO - Difficulty: Beginner
+2025-10-01 12:31:11,545 - __main__ - INFO - Date: 2025-10-01
+2025-10-01 12:31:11,545 - __main__ - INFO - Profile: Technical Lead
+2025-10-01 12:31:11,546 - __main__ - INFO - SESSION COMPLETED - ID: 20251001_123104
+2025-10-01 12:31:11,546 - __main__ - INFO - Total tokens: 124
+2025-10-01 12:31:11,546 - __main__ - INFO - Questions generated: 0
+2025-10-01 12:31:11,546 - __main__ - INFO - Evaluations completed: 1
+2025-10-01 12:31:11,546 - __main__ - INFO - Errors encountered: 0
+2025-10-01 12:31:11,546 - __main__ - INFO - Session duration: 6.75 seconds
+2025-10-01 12:31:11,546 - __main__ - INFO - Average response time: 6.73 seconds
+2025-10-01 12:31:11,546 - __main__ - INFO - ==================================================
+2025-10-01 12:31:11,546 - __main__ - INFO - Session summary saved: {'session_id': '20251001_123104', 'start_time': '2025-10-01T12:31:04.793967', 'total_time': 6.752197980880737, 'token_usage': {'total_tokens': 124, 'input_tokens': 76, 'output_tokens': 48, 'calls': 1}, 'questions_generated': 0, 'evaluations_completed': 1, 'errors_count': 0, 'avg_response_time': 6.734126091003418, 'errors': []}
+2025-10-01 14:24:06,559 - __main__ - INFO - New interview session started - Session ID: 20251001_142406
+2025-10-01 14:51:06,405 - __main__ - INFO - ==================================================
+2025-10-01 14:51:06,405 - __main__ - INFO - INTERVIEW INFORMATION COLLECTED
+2025-10-01 14:51:06,406 - __main__ - INFO - Examiner Name: test
+2025-10-01 14:51:06,406 - __main__ - INFO - Difficulty Level: Beginner
+2025-10-01 14:51:06,406 - __main__ - INFO - Interview Date: 2025-10-01
+2025-10-01 14:51:06,406 - __main__ - INFO - Examiner Profile: HR Manager
+2025-10-01 14:51:06,406 - __main__ - INFO - Password Provided: Yes
+2025-10-01 14:51:06,406 - __main__ - INFO - ==================================================
+2025-10-01 14:51:10,032 - __main__ - INFO - API Call - Input: 63, Output: 15, Total: 78, Time: 3.56s
+2025-10-01 14:51:10,033 - __main__ - INFO - Question 1 generated: How would you use a formula to add up a list of numbers in Excel?...
+2025-10-01 14:51:10,033 - __main__ - INFO - Question 1 generated for Beginner level
+2025-10-01 14:51:31,263 - __main__ - INFO - API Call - Input: 56, Output: 38, Total: 94, Time: 6.08s
+2025-10-01 14:51:31,263 - __main__ - INFO - Evaluation 1 completed - Score: 5, Time: 6.08s
+2025-10-01 14:51:31,264 - __main__ - INFO - Answer evaluated for Beginner level - Score: 5
+2025-10-01 14:51:35,737 - __main__ - INFO - API Call - Input: 72, Output: 10, Total: 82, Time: 4.47s
+2025-10-01 14:51:35,738 - __main__ - INFO - Question 2 generated: What is the purpose of the fill handle in Excel?...
+2025-10-01 14:51:35,738 - __main__ - INFO - Question 2 generated for Beginner level
+2025-10-01 14:51:43,466 - __main__ - INFO - Question 2 skipped by user
+2025-10-01 14:51:46,638 - __main__ - INFO - API Call - Input: 73, Output: 21, Total: 94, Time: 3.17s
+2025-10-01 14:51:46,638 - __main__ - INFO - Question 3 generated: If you have a list of numbers in cells A1 through A10, what formula would you use to find their tota...
+2025-10-01 14:51:46,638 - __main__ - INFO - Question 3 generated for Beginner level
+2025-10-01 14:52:06,634 - __main__ - INFO - API Call - Input: 62, Output: 20, Total: 82, Time: 2.30s
+2025-10-01 14:52:06,634 - __main__ - INFO - Evaluation 2 completed - Score: 5, Time: 2.30s
+2025-10-01 14:52:06,634 - __main__ - INFO - Answer evaluated for Beginner level - Score: 5
+2025-10-01 14:52:10,244 - __main__ - INFO - API Call - Input: 72, Output: 12, Total: 84, Time: 3.61s
+2025-10-01 14:52:10,245 - __main__ - INFO - Question 4 generated: What is the difference between a row and a column in Excel?...
+2025-10-01 14:52:10,245 - __main__ - INFO - Question 4 generated for Beginner level
+2025-10-01 14:52:41,027 - __main__ - INFO - API Call - Input: 55, Output: 31, Total: 86, Time: 14.76s
+2025-10-01 14:52:41,030 - __main__ - INFO - Evaluation 3 completed - Score: 3, Time: 14.76s
+2025-10-01 14:52:41,030 - __main__ - INFO - Answer evaluated for Beginner level - Score: 3
+2025-10-01 14:52:44,654 - __main__ - INFO - API Call - Input: 74, Output: 13, Total: 87, Time: 3.62s
+2025-10-01 14:52:44,655 - __main__ - INFO - Question 5 generated: How would you calculate the total of a range of numbers in Excel?...
+2025-10-01 14:52:44,655 - __main__ - INFO - Question 5 generated for Beginner level
+2025-10-01 14:53:02,775 - __main__ - INFO - Question 5 skipped by user
+2025-10-01 14:53:02,775 - __main__ - INFO - Interview completed successfully
+2025-10-01 14:53:02,775 - __main__ - INFO - FINAL INTERVIEW SUMMARY:
+2025-10-01 14:53:02,775 - __main__ - INFO - Examiner: test
+2025-10-01 14:53:02,775 - __main__ - INFO - Difficulty: Beginner
+2025-10-01 14:53:02,776 - __main__ - INFO - Date: 2025-10-01
+2025-10-01 14:53:02,776 - __main__ - INFO - Profile: HR Manager
+2025-10-01 14:53:02,776 - __main__ - INFO - SESSION COMPLETED - ID: 20251001_145302
+2025-10-01 14:53:02,776 - __main__ - INFO - Total tokens: 0
+2025-10-01 14:53:02,776 - __main__ - INFO - Questions generated: 0
+2025-10-01 14:53:02,776 - __main__ - INFO - Evaluations completed: 0
+2025-10-01 14:53:02,776 - __main__ - INFO - Errors encountered: 0
+2025-10-01 14:53:02,776 - __main__ - INFO - Session duration: 0.01 seconds
+2025-10-01 14:53:02,776 - __main__ - INFO - Average response time: 0.00 seconds
+2025-10-01 14:53:02,776 - __main__ - INFO - ==================================================
+2025-10-01 14:53:02,776 - __main__ - INFO - Session summary saved: {'session_id': '20251001_145302', 'start_time': '2025-10-01T14:53:02.769626', 'total_time': 0.006671905517578125, 'token_usage': {'total_tokens': 0, 'input_tokens': 0, 'output_tokens': 0, 'calls': 0}, 'questions_generated': 0, 'evaluations_completed': 0, 'errors_count': 0, 'avg_response_time': 0, 'errors': []}
+2025-10-01 14:56:41,321 - __main__ - INFO - New interview session started - Session ID: 20251001_145641
+2025-10-01 14:56:43,337 - __main__ - INFO - New interview session started - Session ID: 20251001_145643
+2025-10-01 14:56:55,355 - __main__ - INFO - ==================================================
+2025-10-01 14:56:55,355 - __main__ - INFO - INTERVIEW INFORMATION COLLECTED
+2025-10-01 14:56:55,356 - __main__ - INFO - Examiner Name: test2
+2025-10-01 14:56:55,356 - __main__ - INFO - Difficulty Level: Intermediate
+2025-10-01 14:56:55,356 - __main__ - INFO - Interview Date: 2025-10-01
+2025-10-01 14:56:55,356 - __main__ - INFO - Examiner Profile: HR Manager
+2025-10-01 14:56:55,356 - __main__ - INFO - Password Provided: Yes
+2025-10-01 14:56:55,356 - __main__ - INFO - ==================================================
+2025-10-01 14:57:05,123 - __main__ - INFO - API Call - Input: 66, Output: 51, Total: 117, Time: 9.71s
+2025-10-01 14:57:05,123 - __main__ - INFO - Question 1 generated: You have a dataset containing sales transactions with columns for Date, Product Category, Region, an...
+2025-10-01 14:57:05,123 - __main__ - INFO - Question 1 generated for Intermediate level
+2025-10-01 15:01:11,753 - __main__ - INFO - API Call - Input: 313, Output: 72, Total: 385, Time: 7.64s
+2025-10-01 15:01:11,754 - __main__ - INFO - Evaluation 1 completed - Score: 5, Time: 7.64s
+2025-10-01 15:01:11,754 - __main__ - INFO - Answer evaluated for Intermediate level - Score: 5
+2025-10-01 15:01:15,444 - __main__ - INFO - API Call - Input: 296, Output: 78, Total: 374, Time: 3.69s
+2025-10-01 15:01:15,444 - __main__ - INFO - Question 2 generated: You have a dataset containing employee IDs, their department, and their monthly sales figures. You a...
+2025-10-01 15:01:15,444 - __main__ - INFO - Question 2 generated for Intermediate level
+2025-10-01 15:10:03,314 - __main__ - INFO - Question 2 skipped by user
+2025-10-01 15:10:03,514 - __main__ - INFO - Question 2 skipped by user
+2025-10-01 15:10:12,188 - __main__ - INFO - API Call - Input: 76, Output: 61, Total: 137, Time: 8.87s
+2025-10-01 15:10:12,188 - __main__ - INFO - Question 3 generated: You have a dataset of sales transactions with columns for 'Transaction ID', 'CustomerID', and 'Produ...
+2025-10-01 15:10:12,189 - __main__ - INFO - Question 3 generated for Intermediate level
+2025-10-01 15:10:14,279 - __main__ - INFO - API Call - Input: 76, Output: 74, Total: 150, Time: 10.77s
+2025-10-01 15:10:14,279 - __main__ - INFO - Question 3 generated: You have a large dataset of customer orders, including 'Order ID', 'Customer Name', 'Product ID', 'O...
+2025-10-01 15:10:14,279 - __main__ - INFO - Question 3 generated for Intermediate level
+2025-10-01 15:11:21,657 - __main__ - INFO - API Call - Input: 158, Output: 92, Total: 250, Time: 16.21s
+2025-10-01 15:11:21,658 - __main__ - INFO - Evaluation 2 completed - Score: 4, Time: 16.21s
+2025-10-01 15:11:21,658 - __main__ - INFO - Answer evaluated for Intermediate level - Score: 4
+2025-10-01 15:11:30,441 - __main__ - INFO - API Call - Input: 118, Output: 58, Total: 176, Time: 8.78s
+2025-10-01 15:11:30,441 - __main__ - INFO - Question 4 generated: You have a 'Sales' table (OrderID, ProductID, Quantity) and a 'Products' table (ProductID, ProductNa...
+2025-10-01 15:11:30,441 - __main__ - INFO - Question 4 generated for Intermediate level
+2025-10-01 15:11:39,299 - __main__ - INFO - Question 4 skipped by user
+2025-10-01 15:11:45,378 - __main__ - INFO - API Call - Input: 76, Output: 71, Total: 147, Time: 6.08s
+2025-10-01 15:11:45,378 - __main__ - INFO - Question 5 generated: You have a sales dataset with columns for 'Salesperson', 'Region', 'Product Category', and 'Sales Am...
+2025-10-01 15:11:45,378 - __main__ - INFO - Question 5 generated for Intermediate level
+2025-10-01 15:11:47,849 - __main__ - INFO - Question 5 skipped by user
+2025-10-01 15:11:47,850 - __main__ - INFO - Interview completed successfully
+2025-10-01 15:11:47,850 - __main__ - INFO - FINAL INTERVIEW SUMMARY:
+2025-10-01 15:11:47,850 - __main__ - INFO - Examiner: test2
+2025-10-01 15:11:47,850 - __main__ - INFO - Difficulty: Intermediate
+2025-10-01 15:11:47,850 - __main__ - INFO - Date: 2025-10-01
+2025-10-01 15:11:47,850 - __main__ - INFO - Profile: HR Manager
+2025-10-01 15:11:47,850 - __main__ - INFO - SESSION COMPLETED - ID: 20251001_151147
+2025-10-01 15:11:47,850 - __main__ - INFO - Total tokens: 0
+2025-10-01 15:11:47,850 - __main__ - INFO - Questions generated: 0
+2025-10-01 15:11:47,850 - __main__ - INFO - Evaluations completed: 0
+2025-10-01 15:11:47,850 - __main__ - INFO - Errors encountered: 0
+2025-10-01 15:11:47,850 - __main__ - INFO - Session duration: 0.01 seconds
+2025-10-01 15:11:47,850 - __main__ - INFO - Average response time: 0.00 seconds
+2025-10-01 15:11:47,850 - __main__ - INFO - ==================================================
+2025-10-01 15:11:47,851 - __main__ - INFO - Session summary saved: {'session_id': '20251001_151147', 'start_time': '2025-10-01T15:11:47.843952', 'total_time': 0.006852865219116211, 'token_usage': {'total_tokens': 0, 'input_tokens': 0, 'output_tokens': 0, 'calls': 0}, 'questions_generated': 0, 'evaluations_completed': 0, 'errors_count': 0, 'avg_response_time': 0, 'errors': []}
+2025-10-01 15:28:34,347 - __main__ - INFO - New interview session started - Session ID: 20251001_152834
+2025-10-01 15:28:52,412 - __main__ - INFO - ==================================================
+2025-10-01 15:28:52,412 - __main__ - INFO - INTERVIEW INFORMATION COLLECTED
+2025-10-01 15:28:52,413 - __main__ - INFO - Examiner Name: test3
+2025-10-01 15:28:52,413 - __main__ - INFO - Difficulty Level: Beginner
+2025-10-01 15:28:52,413 - __main__ - INFO - Interview Date: 2025-10-01
+2025-10-01 15:28:52,413 - __main__ - INFO - Examiner Profile: HR Manager
+2025-10-01 15:28:52,413 - __main__ - INFO - Password Provided: Yes
+2025-10-01 15:28:52,413 - __main__ - INFO - ==================================================
+2025-10-01 15:28:56,663 - __main__ - INFO - API Call - Input: 63, Output: 19, Total: 82, Time: 4.19s
+2025-10-01 15:28:56,664 - __main__ - INFO - Question 1 generated: How would you use a basic formula to find the total sum of a column of numbers in Excel?...
+2025-10-01 15:28:56,664 - __main__ - INFO - Question 1 generated for Beginner level
+2025-10-01 15:29:17,626 - __main__ - INFO - API Call - Input: 60, Output: 50, Total: 110, Time: 8.94s
+2025-10-01 15:29:17,626 - __main__ - INFO - Evaluation 1 completed - Score: 1, Time: 8.94s
+2025-10-01 15:29:17,626 - __main__ - INFO - Answer evaluated for Beginner level - Score: 1
+2025-10-01 15:29:20,448 - __main__ - INFO - API Call - Input: 72, Output: 12, Total: 84, Time: 2.82s
+2025-10-01 15:29:20,448 - __main__ - INFO - Question 2 generated: How do you refer to a specific cell in an Excel worksheet?...
+2025-10-01 15:29:20,449 - __main__ - INFO - Question 2 generated for Beginner level
+2025-10-02 00:28:25,703 - __main__ - INFO - ==================================================
+2025-10-02 00:28:25,703 - __main__ - INFO - INTERVIEW INFORMATION COLLECTED
+2025-10-02 00:28:25,704 - __main__ - INFO - Examiner Name: test3
+2025-10-02 00:28:25,704 - __main__ - INFO - Difficulty Level: Intermediate
+2025-10-02 00:28:25,704 - __main__ - INFO - Interview Date: 2025-10-02
+2025-10-02 00:28:25,704 - __main__ - INFO - Examiner Profile: HR Manager
+2025-10-02 00:28:25,704 - __main__ - INFO - Password Provided: Yes
+2025-10-02 00:28:25,704 - __main__ - INFO - ==================================================
+2025-10-02 00:28:36,591 - __main__ - INFO - API Call - Input: 66, Output: 63, Total: 129, Time: 10.84s
+2025-10-02 00:28:36,591 - __main__ - INFO - Question 1 generated: You have a raw dataset containing employee information with columns like 'Employee ID', 'Employee Na...
+2025-10-02 00:28:36,591 - __main__ - INFO - Question 1 generated for Intermediate level
+2025-10-02 00:28:38,224 - __main__ - INFO - Question 1 skipped by user
+2025-10-02 00:28:42,424 - __main__ - INFO - API Call - Input: 76, Output: 46, Total: 122, Time: 4.20s
+2025-10-02 00:28:42,424 - __main__ - INFO - Question 2 generated: You have two sheets: 'Sales Data' (columns: Order ID, Product ID, Region, Sales Amount) and 'Product...
+2025-10-02 00:28:42,424 - __main__ - INFO - Question 2 generated for Intermediate level
+2025-10-02 00:28:44,324 - __main__ - INFO - Question 2 skipped by user
+2025-10-02 00:28:49,718 - __main__ - INFO - API Call - Input: 76, Output: 66, Total: 142, Time: 5.39s
+2025-10-02 00:28:49,718 - __main__ - INFO - Question 3 generated: You have two sheets: 'Sales Data' with columns 'Transaction ID', 'Product ID', and 'Quantity Sold', ...
+2025-10-02 00:28:49,718 - __main__ - INFO - Question 3 generated for Intermediate level
+2025-10-02 00:28:51,474 - __main__ - INFO - Question 3 skipped by user
+2025-10-02 00:28:57,170 - __main__ - INFO - API Call - Input: 76, Output: 63, Total: 139, Time: 5.69s
+2025-10-02 00:28:57,170 - __main__ - INFO - Question 4 generated: You have a dataset with employee names, their department, and their individual monthly sales figures...
+2025-10-02 00:28:57,170 - __main__ - INFO - Question 4 generated for Intermediate level
+2025-10-02 00:28:58,872 - __main__ - INFO - Question 4 skipped by user
+2025-10-02 00:29:04,351 - __main__ - INFO - API Call - Input: 76, Output: 86, Total: 162, Time: 5.48s
+2025-10-02 00:29:04,351 - __main__ - INFO - Question 5 generated: You have two tables: 'Sales Data' (columns: Transaction ID, Product ID, Quantity Sold, Unit Price) a...
+2025-10-02 00:29:04,351 - __main__ - INFO - Question 5 generated for Intermediate level
+2025-10-02 00:29:06,342 - __main__ - INFO - Question 5 skipped by user
+2025-10-02 00:29:06,342 - __main__ - INFO - Interview completed successfully
+2025-10-02 00:29:06,342 - __main__ - INFO - FINAL INTERVIEW SUMMARY:
+2025-10-02 00:29:06,342 - __main__ - INFO - Examiner: test3
+2025-10-02 00:29:06,342 - __main__ - INFO - Difficulty: Intermediate
+2025-10-02 00:29:06,342 - __main__ - INFO - Date: 2025-10-02
+2025-10-02 00:29:06,343 - __main__ - INFO - Profile: HR Manager
+2025-10-02 00:29:06,343 - __main__ - INFO - SESSION COMPLETED - ID: 20251002_002906
+2025-10-02 00:29:06,343 - __main__ - INFO - Total tokens: 0
+2025-10-02 00:29:06,343 - __main__ - INFO - Questions generated: 0
+2025-10-02 00:29:06,343 - __main__ - INFO - Evaluations completed: 0
+2025-10-02 00:29:06,343 - __main__ - INFO - Errors encountered: 0
+2025-10-02 00:29:06,343 - __main__ - INFO - Session duration: 0.01 seconds
+2025-10-02 00:29:06,343 - __main__ - INFO - Average response time: 0.00 seconds
+2025-10-02 00:29:06,343 - __main__ - INFO - ==================================================
+2025-10-02 00:29:06,343 - __main__ - INFO - Session summary saved: {'session_id': '20251002_002906', 'start_time': '2025-10-02T00:29:06.337020', 'total_time': 0.006036996841430664, 'token_usage': {'total_tokens': 0, 'input_tokens': 0, 'output_tokens': 0, 'calls': 0}, 'questions_generated': 0, 'evaluations_completed': 0, 'errors_count': 0, 'avg_response_time': 0, 'errors': []}
